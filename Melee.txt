@@ -1,0 +1,472 @@
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1011
+Iron Sword
+5
+0.2
+false
+false
+false
+false
+0
+100
+1012
+Steel Sword
+7
+.25
+false
+false
+false
+false
+0
+250
+1013
+Cobalt Sword
+8
+.3
+false
+false
+false
+false
+0
+400
+1014
+Mythril Sword
+10
+.3
+false
+false
+false
+false
+0
+500
+1015
+Flaming Mythril Katana
+12
+.3
+false
+true
+false
+false
+0
+1000
+1021
+Iron Axe
+8
+.1
+false
+false
+false
+false
+0
+150
+1022
+Steel Axe
+10
+.15
+false
+false
+false
+false
+0
+250
+1023
+Cobalt Axe
+12
+.15
+false
+false
+false
+false
+0
+450
+1024
+Mythril Axe
+15
+.15
+false
+false
+false
+false
+0
+700
+1025
+Mythril Axe of Freezing
+15
+.15
+false
+false
+true
+false
+0
+1150
+1031
+Iron Spear
+6
+.4
+false
+false
+false
+false
+0
+100
+1032
+Steel Spear
+8
+.4
+false
+false
+false
+false
+0
+250
+1033
+Cobalt Spear
+10
+.45
+false
+false
+false
+false
+0
+500
+1034
+Mythril Spear
+10
+.5
+false
+false
+false
+false
+0
+650
+Mythril Spear of Armour Piercing
+12
+.75
+false
+false
+false
+false
+false
+0
+1000
+1050
+Iron Knife of Immenent Dying
+2
+.3
+false
+false
+false
+false
+0
+20
+1042
+Steel Knife of Didn't Have Enough Money for the Sword
+3
+.3
+false
+false
+false
+false
+0
+50
+1043
+Cobalt Knife of Holy Crap I Crapped My Pants Because I Don't Have Anything Better
+4
+.3
+false
+false
+false
+false
+0
+70
+1044
+Mythril Knife of Better than the Cobalt One
+5
+.3
+false
+false
+false
+false
+0
+90
+1045
+Tremble Enfrent of this Dagger
+14
+.0
+true
+true
+false
+false
+0
+1337
+2061
+Small Stone
+3
+0
+false
+false
+false
+false
+0
+25
+2062
+Medium Stone
+4
+.1
+false
+false
+false
+false
+0
+35
+2063
+Large Stone
+8
+.1
+false
+false
+false
+false
+0
+50
+2064
+Steel Stone
+10
+.1
+false
+false
+false
+false
+0
+70
+2065
+Snow Ball
+10
+0
+false
+false
+true
+false
+0
+100
+2071
+Iron Throwing Knife
+5
+.5
+false
+false
+false
+false
+75
+150
+2072
+Steel Throwing Knife
+7
+.5
+false
+false
+false
+false
+75
+175
+2073
+Cobalt Throwing Knife
+10
+.55
+false
+false
+false
+false
+75
+250
+2074
+AP Throwing Knife
+10
+.67
+false
+false
+false
+false
+75
+350
+2075
+Accurate Throwing Knife
+10
+.5
+false
+false
+false
+false
+99
+350
+2081
+Short Bow
+6
+.6
+false
+false
+false
+false
+80
+150
+2082
+Strong Short Bow
+8
+.65
+false
+false
+false
+false
+80
+200
+2083
+Flaming Short Bow
+8
+.65
+false
+true
+false
+false
+75
+400
+2084
+Icicle Short Bow
+8
+.5
+false
+false
+true
+false
+65
+400
+2085
+Zapping Short Bow
+5
+.4
+false
+false
+false
+true
+75
+400
+2091
+Long Bow
+7
+.5
+false
+false
+false
+false
+75
+175
+2092
+Strong Long Bow
+9
+.65
+false
+false
+false
+false
+70
+275
+2093
+Exceptional Long Bow
+11
+.7
+false
+false
+false
+false
+70
+400
+2094
+Flaming Long Bow
+11
+.7
+false
+true
+false
+false
+70
+600
+2095
+AP Long Bow
+13
+.9
+false
+false
+false
+false
+70
+600
+2101
+Javelin
+9
+.45
+false
+false
+false
+false
+65
+150
+2102
+Long Javelin
+11
+.45
+false
+false
+false
+false
+65
+250
+2103
+Exceptional Javelin
+14
+.45
+false
+false
+false
+false
+67
+400
+2104
+Heavy Javelin
+18
+.4
+false
+false
+false
+false
+65
+600
+2105
+Light Javelin
+14
+.35
+false
+false
+false
+false
+80
+600
+3111
+Piss Poor Fire Wand
+4
+0
+true
+true
+false
+false
+80
+100
+3112
+Decent Fire Wand
