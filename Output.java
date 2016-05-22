@@ -1,11 +1,11 @@
 public interface Output{
-   public void optionMenu(String[] options);
+   public static void optionMenu(String[] options);
    
-   public void openingScreen();
+   public static void openingScreen();
    
-   public void normalText(String playerName, String enemyName, int damage);
+   public static void normalText(String attacking, String defending, int damage);
    
-   public void transitionBreak();
+   public static void transitionBreak();
    
     
 }
